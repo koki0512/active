@@ -1,1 +1,1 @@
-masterブランチで書きました。
+wrote a-buranch
